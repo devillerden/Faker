@@ -5,6 +5,8 @@
         "This file is @generated automatically"
     ],
     "content-hash": "d51aa4747d7682cb6ffa556270842c5a",
+
+    "content-hash": "2fd1e6841e9d27c94985142f57323573",
     "packages": [
         {
             "name": "phpstan/extension-installer",
